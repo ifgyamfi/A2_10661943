@@ -1,2 +1,2 @@
 # A2_10661943
-A program to check whether or not a number entered is prime.
+A C++ program to check whether or not a number entered is prime.
